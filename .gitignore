@@ -10,4 +10,7 @@
 !.git*
 !*.yaml
 
+!LICENSE
+!*.md
+
 api.yaml
