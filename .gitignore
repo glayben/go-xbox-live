@@ -1,0 +1,13 @@
+*
+
+!*/**
+
+!*.go
+!go.mod
+!go.sum
+!go.work
+
+!.git*
+!*.yaml
+
+api.yaml
